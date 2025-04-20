@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS system files
+.DS_Store
+
+# Exported markdown files (regenerated each run)
+exported_markdown/
+
+# VSCode / editor folders
+.vscode/
+.idea/
+
+# Python virtual environment
+venv/
+.env/
+.venv/
+
+# Log files
+*.log
+
+# Jupyter and IPython junk (if ever used)
+.ipynb_checkpoints/
